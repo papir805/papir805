@@ -29,7 +29,7 @@ As I get older, I've been looking for new ways to challenge myself and have been
 - 🔭 I’m currently working on [ETL Craigslist Web Scraper](https://github.com/papir805/CL_tutoring_scraper)  
   
 
-- 🌱 I’m currently learning how to tailor an ETL pipeline in such a way as to provide the data I need on my competition as a math tutor to understand the market better.   
+- 🌱 I’m currently learning how to tailor an ETL pipeline in such a way as to provide the data I need on my competition as a math tutor.  I want to understand the market better.   
   
 
 - ❓ Ask me about anything related to math!  I'm comfortable with anything from basic Algebra, all the way to Calculus and Statistics.  
