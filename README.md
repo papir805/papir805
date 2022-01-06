@@ -75,7 +75,6 @@ As I get older, I've been looking for new ways to challenge myself and have been
 
 <br/>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papir805&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>  
 
