@@ -14,7 +14,7 @@
 ### Glad to see you here!  
 A seasoned math teacher, with over 15 years of experience teaching/tutoring math.  Problem solving is an interest of mine and I derive satisfaction from being able to work a problem through to completion.  
 
-As I get older, I've been looking for new ways to challenge myself and have been leveraging the deep content knowledge I possess in areas like Statistics, to perform data analysis using newly acquired skills in Python and SQL.  I started in late 2019 and since then have been afforded countless opportunities to grow and challenge myself while producing personal projects, the more interesting of which I've uploaded to my repositories.
+As I get older, I've been looking for new ways to challenge myself and have been leveraging the deep content knowledge I possess in areas like Statistics, to perform data analysis using newly acquired skills in Python and SQL.  I started in late 2019 and since then have been afforded countless opportunities to grow and challenge myself while producing personal projects, the more interesting of which I've uploaded to my repositories.  Please take a look!
 
 
   
