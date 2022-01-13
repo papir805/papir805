@@ -23,18 +23,19 @@ I also hold a Bachelor of Science (B.S.) degree in International Business from S
 I am currently looking for my first job as a Data Analyst/Scientist and in order to demonstrate proficiency, have spent time building up repositories on my GitHub to showcase my skills, share projects, and track my progress on data analytics / data science related topics. Please take a look through the repositories here. I hope you find them interesting.
 
 
-### Project repositories:
+# Repositories:
 
-#### Python
-1. [craigslist_web_scraper](https://github.com/papir805/craigslist_web_scraper)
+## Python projects
+1. [craigslist_web_scraper](https://github.com/papir805/craigslist_web_scraper) - An ETL web scraper that grabs prices of other math tutors, which I can use to compare my tutoring services against and better understand my competition in the market.
     * Important libraries used: `Requests`, `BeautifulSoup`, `Pandas`, `NumPy`, `Psycopg2`, `Sklearn`
-2. [accounting_analysis](https://github.com/papir805/accounting_analysis)
+2. [accounting_analysis](https://github.com/papir805/accounting_analysis) - An analysis of data from a Reddit survey on r/accounting that provided insight into the profession my wife was transitioning into.
     * Important libraries used: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Sklearn`, `SciPy`, `Statsmodels`
-3. [acpuncture_scholarly_anaysis](https://github.com/papir805/acupuncture_scholarly_analysis)
+3. [acpuncture_scholarly_anaysis](https://github.com/papir805/acupuncture_scholarly_analysis) - A fun way to practice using Python libraries to implement statistical techniques that I teach in class, such as hypothesis testing, construction of confidence intervals, and linear regression.
     * Important libraries used: `Pandas`, `NumPy`, `SciPy`, `Statsmodels`, `Matplotlib`
 
 
-#### SQL
+
+## SQL Queries - ways to practice my knowledge of joins, window functions, subqueries, common table expressions and more
 1. [advanced_sql_puzzles](https://github.com/papir805/advanced_sql_puzzles)
     * All queries in MySQL
 2. [stratascratch_sql_puzzles](https://github.com/papir805/stratascratch_SQL_puzzles)
