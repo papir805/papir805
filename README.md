@@ -12,9 +12,33 @@
 
 
 ### Glad to see you here!  
-A seasoned math teacher, with over 15 years of experience teaching/tutoring math.  Problem solving is an interest of mine and I derive satisfaction from being able to work a problem through to completion.  
+Hi, my name is Jonathan.  I have more than fifteen years of experience working with Mathematics, over five of which have been spent as a math teacher who specializes in Statistics and Calculus.  I thoroughly enjoy problem solving and derive satisfaction from being able to work a problem through to completion.  Coming from a teaching background, I have a knack for communicating complex ideas in a way that is easy to digest and enjoy learning, especially if it relates to math in some way.
 
-As I get older, I've been looking for new ways to challenge myself and have been leveraging the deep content knowledge I possess in areas like Statistics, to perform data analysis using newly acquired skills in Python and SQL.  I started in late 2019 and since then have been afforded countless opportunities to grow and challenge myself while producing personal projects, the more interesting of which I've uploaded to my repositories.  Please take a look!
+Two to three years ago, I was introduced to the idea of Data Science and immediately became interested.  Mathematical applications excite me and seeing Data Science use Statistics to tell stories, while blending Statistics, Calculus, and Linear Algebra together to solve novel and intriguing problems was eye opening.  I was off on my journey and began dedicating all of my free time to learning the requisite skills which would enable me to work with data.  
+
+Since working with data inevitably involves programming languages or computer software in some way, which have some innate structure built into them, they all felt very natural, with structure that was familiar to the Mathematical structures I work and teach in class.  At this point, I now have a more varied skill set that is not just conceptual in nature, but is grounded in hands on experience, spanning a wide array of software and data management systems.  I am proficient with SQL (MySQL and PostgreSQL), Tableau, Python, and Excel, and continue to learn more each day, with a robust eagerness that hasn’t waned yet. 
+
+While the majority of my work experience is in the field of Mathematics, I also hold a Bachelor of Science (B.S.) degree in International Business from San Jose State University, which I’ve been able to leverage in order to view data from the business perspective and understand ways in which it can provide crucial insights to solve business problems.
+
+I am currently looking for my first job as a Data Analyst/Scientist and to demonstrate proficiency have spent quite a bit of time building up repositories on my GitHub to showcase my skills, share projects, and track my progress in Data Analytics / Data Science related topics.  Please take a look through the repositories here.  I hope you find them interesting.
+
+### Project repositories:
+
+#### Python
+1. [craigslist_web_scraper](https://github.com/papir805/craigslist_web_scraper)
+    * Important libraries used: `Requests`, `BeautifulSoup`, `Pandas`, `NumPy`, `Psycopg2`, `Sklearn`
+2. [accounting_analysis](https://github.com/papir805/accounting_analysis)
+    * Important libraries used: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Sklearn`, `SciPy`, `Statsmodels`
+3. [acpuncture_scholarly_anaysis](https://github.com/papir805/acupuncture_scholarly_analysis)
+    * Important libraries used: `Pandas`, `NumPy`, `SciPy`, `Statsmodels`, `Matplotlib`
+
+
+#### SQL
+1. [advanced_sql_puzzles](https://github.com/papir805/advanced_sql_puzzles)
+    * All queries in MySQL
+2. [stratascratch_sql_puzzles](https://github.com/papir805/stratascratch_SQL_puzzles)
+    * All queries in PostgreSQL
+
 
 
   
@@ -26,7 +50,7 @@ As I get older, I've been looking for new ways to challenge myself and have been
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [ETL Craigslist Web Scraper](https://github.com/papir805/CL_tutoring_scraper)  
+- 🔭 I’m currently working on [ETL Craigslist Web Scraper](https://github.com/papir805/craigslist_web_scraper)  
   
 
 - 🌱 I’m currently learning how to tailor an ETL pipeline in such a way as to provide the data I need on my competition as a math tutor.  I want to understand the market better.   
