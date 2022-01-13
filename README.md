@@ -25,7 +25,7 @@ I am currently looking for my first job as a Data Analyst/Scientist and in order
 
 # Repositories:
 
-## Python projects
+### Python projects
 1. [craigslist_web_scraper](https://github.com/papir805/craigslist_web_scraper) - An ETL web scraper that grabs prices of other math tutors, which I can use to compare my tutoring services against and better understand my competition in the market.
     * Important libraries used: `Requests`, `BeautifulSoup`, `Pandas`, `NumPy`, `Psycopg2`, `Sklearn`
 2. [accounting_analysis](https://github.com/papir805/accounting_analysis) - An analysis of data from a Reddit survey on r/accounting that provided insight into the profession my wife was transitioning into.
@@ -35,11 +35,15 @@ I am currently looking for my first job as a Data Analyst/Scientist and in order
 
 
 
-## SQL Queries - ways to practice my knowledge of joins, window functions, subqueries, common table expressions and more
+### SQL Queries - ways to practice my knowledge of joins, window functions, subqueries, common table expressions and more
 1. [advanced_sql_puzzles](https://github.com/papir805/advanced_sql_puzzles)
     * All queries in MySQL
 2. [stratascratch_sql_puzzles](https://github.com/papir805/stratascratch_SQL_puzzles)
     * All queries in PostgreSQL
+
+
+# Tableau:
+1. [US_accounting_viz](https://public.tableau.com/app/profile/jonathan.papir/viz/us_accounting_viz/GenderStory) - A story about gender differences among male and female accountants using cleaned data from the r/accounting survey in the [accounting_analysis](https://github.com/papir805/accounting_analysis) mentioned above.
 
 
 
