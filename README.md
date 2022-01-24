@@ -12,15 +12,15 @@
 
 
 ### Glad to see you here!  
-Hi, my name is Jonathan. I have more than fifteen years of experience working with mathematics, over five of which has been spent as a math teacher who specializes in statistics and calculus. I thoroughly enjoy problem solving and derive satisfaction from being able to work a problem through to completion. Coming from a teaching background, I have a knack for communicating complex ideas in a way that is easy to digest and enjoy learning, especially if it relates to math in some way.
+Hi, my name is Jonathan. I have more than fifteen years of experience working with mathematics, over five of which has been spent as a math teacher who specializes in statistics and calculus. I thoroughly enjoy problem solving and derive satisfaction from being able to work a problem through to completion. Coming from a teaching background, I have a knack for communicating complex ideas in a way that is easy to digest and I enjoy learning, especially if it relates to math in some way.
 
-Roughly three years ago, I was introduced to the idea of data science and immediately became interested. Mathematical applications excite me and seeing data science use statistics to tell stories, while blending statistics, calculus, and linear algebra together to solve novel and intriguing problems was eye opening. I was off on my journey and began dedicating all of my free time to learning the requisite skills which would enable me to work with data.
+Roughly three years ago, I was introduced to the idea of data science and immediately became interested. Mathematical applications excite me and seeing data science blend statistics, calculus, and linear algebra together to solve novel and intriguing problems was eye opening. I was off on my journey and began dedicating all of my free time to learning the requisite skills which would enable me to work with data.
 
-Since working with data inevitably involves programming languages and computer software, which have mathematical structures built into them, they felt very natural and were easily related to the ideas I teach regularly. I now have a more varied skill set that is not just conceptual in nature, but is grounded in hands-on experience, spanning a wide array of software and data management systems. I am proficient with SQL (MySQL and PostgreSQL), Tableau, Python, and Excel, and continue to learn more each day, with a robust eagerness that hasn’t waned.
+Since working with data requires programming languages and computer software, I had to start here.  Luckily, they all have mathematical structures built into them, which felt very natural and similar to the ideas I teach regularly, which made learning a blast. I now have a more varied skill set that is not just conceptual in nature, but is grounded in hands-on experience, spanning a wide array of software and data management systems. I am proficient with SQL (MySQL and PostgreSQL), Tableau, Python, and Excel, and continue to learn more each day, with a robust eagerness that hasn’t waned. 
 
 I also hold a Bachelor of Science (B.S.) degree in International Business from San Jose State University. I’ve leveraged the knowledge gained from my degree to view data from the business perspective and understand ways in which it can provide crucial insights to solve business problems.
 
-I am currently looking for my first job as a Data Analyst/Scientist and in order to demonstrate proficiency, have spent time building up repositories on my GitHub to showcase my skills, share projects, and track my progress on data analytics / data science related topics. Please take a look through the repositories here. I hope you find them interesting.
+Currently, I'm looking for my first job as a Data Analyst/Scientist and in order to demonstrate proficiency, have spent time building up repositories on GitHub to showcase my skills, share projects, and track my progress on data analytics / data science related topics. Please take a look through the repositories here, I hope you find them interesting.
 
 
 # Repositories:
@@ -57,8 +57,11 @@ I am currently looking for my first job as a Data Analyst/Scientist and in order
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [ETL Craigslist Web Scraper](https://github.com/papir805/craigslist_web_scraper)  
-  
-
+- 🧠 I'm currently learning Data Engineering through [#de-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp).
+    - Skills: 
+        - docker 🐳
+        - Google Cloud Platform(GCP) ☁️ 
+        - terraform :terraform:
 - 🌱 I’m currently learning how to tailor an ETL pipeline in such a way as to provide the data I need on my competition as a math tutor.  I want to understand the market better.   
   
 
