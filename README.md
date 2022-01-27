@@ -61,7 +61,7 @@ Currently, I'm looking for my first job as a Data Analyst/Scientist and in order
     - Skills: 
         - docker 🐳
         - Google Cloud Platform(GCP) ☁️ 
-        - terraform :terraform:
+        - terraform
 - 🌱 I’m currently learning how to tailor an ETL pipeline in such a way as to provide the data I need on my competition as a math tutor.  I want to understand the market better.   
   
 
