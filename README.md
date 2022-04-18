@@ -51,7 +51,7 @@ Currently, I'm looking for my first job as a Data Analyst/Scientist and in order
 <br/>
 
 
-# Presentations:
+# PowerPoint Presentations:
 1. [TV advertising campaign report](https://docs.google.com/presentation/d/1T-fGZ3Cf7lJvf4lJWJhyOq45gDOGqSKuG6wpV-fVQLo/edit?usp=sharing) - Presentation on two months worth of TV ad data and recommendations for which TV networks to increase/decrease ad spending on.
 <br/>
 
