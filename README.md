@@ -30,7 +30,11 @@ Currently, I'm looking for my first job as a Data Analyst/Scientist and in order
     * Important libraries used: `Requests`, `BeautifulSoup`, `Pandas`, `NumPy`, `Psycopg2`, `Sklearn`
 2. [accounting_analysis](https://github.com/papir805/accounting_analysis) - An analysis of data from a Reddit survey on r/accounting that provided insight into the profession my wife was transitioning into.
     * Important libraries used: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Sklearn`, `SciPy`, `Statsmodels`
-3. [acpuncture_scholarly_anaysis](https://github.com/papir805/acupuncture_scholarly_analysis) - A fun way to practice using Python libraries to implement statistical techniques that I teach in class, such as hypothesis testing, construction of confidence intervals, and linear regression.
+
+3. [TV advertising campaign report](https://github.com/papir805/ad_campaign_report) - This script cleans TV ad data, performs joins, and calculates important metrics, then generates and exports three reports as PDF files, which can be used to produce recommendations for TV networks where ad spending should be increased/decreased.
+    * Important libraries used: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
+
+4. [acpuncture_scholarly_anaysis](https://github.com/papir805/acupuncture_scholarly_analysis) - A fun way to practice using Python libraries to implement statistical techniques that I teach in class, such as hypothesis testing, construction of confidence intervals, and linear regression.
     * Important libraries used: `Pandas`, `NumPy`, `SciPy`, `Statsmodels`, `Matplotlib`
 
 
@@ -44,6 +48,9 @@ Currently, I'm looking for my first job as a Data Analyst/Scientist and in order
 
 # Tableau:
 1. [US_accounting_viz](https://public.tableau.com/app/profile/jonathan.papir/viz/us_accounting_viz/GenderStory) - A story about gender differences among male and female accountants using cleaned data from the r/accounting survey in the [accounting_analysis](https://github.com/papir805/accounting_analysis) mentioned above.
+
+# Presentations:
+1. [TV advertising campaign report](https://docs.google.com/presentation/d/1T-fGZ3Cf7lJvf4lJWJhyOq45gDOGqSKuG6wpV-fVQLo/edit?usp=sharing) - Presentation on two months worth of TV ad data and recommendations for which TV networks to increase/decrease ad spending on.
 
 
 
