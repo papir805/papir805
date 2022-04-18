@@ -36,7 +36,8 @@ Currently, I'm looking for my first job as a Data Analyst/Scientist and in order
 
 4. [acpuncture_scholarly_anaysis](https://github.com/papir805/acupuncture_scholarly_analysis) - A fun way to practice using Python libraries to implement statistical techniques that I teach in class, such as hypothesis testing, construction of confidence intervals, and linear regression.
     * Important libraries used: `Pandas`, `NumPy`, `SciPy`, `Statsmodels`, `Matplotlib`
-
+<br>
+<br/>
 
 
 ### SQL Queries - ways to practice my knowledge of joins, window functions, subqueries, common table expressions and more
@@ -44,14 +45,19 @@ Currently, I'm looking for my first job as a Data Analyst/Scientist and in order
     * All queries in MySQL
 2. [stratascratch_sql_puzzles](https://github.com/papir805/stratascratch_SQL_puzzles)
     * All queries in PostgreSQL
-
+<br>
+<br/>
 
 # Tableau:
 1. [US_accounting_viz](https://public.tableau.com/app/profile/jonathan.papir/viz/us_accounting_viz/GenderStory) - A story about gender differences among male and female accountants using cleaned data from the r/accounting survey in the [accounting_analysis](https://github.com/papir805/accounting_analysis) mentioned above.
+<br>
+<br/>
+
 
 # Presentations:
 1. [TV advertising campaign report](https://docs.google.com/presentation/d/1T-fGZ3Cf7lJvf4lJWJhyOq45gDOGqSKuG6wpV-fVQLo/edit?usp=sharing) - Presentation on two months worth of TV ad data and recommendations for which TV networks to increase/decrease ad spending on.
-
+<br>
+<br/>
 
 
   
