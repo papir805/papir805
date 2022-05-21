@@ -36,8 +36,10 @@ Currently, I'm looking for my first job as a Data Analyst/Scientist and in order
 
 4. [acpuncture_scholarly_anaysis](https://github.com/papir805/acupuncture_scholarly_analysis) - A fun way to practice using Python libraries to implement statistical techniques that I teach in class, such as hypothesis testing, construction of confidence intervals, and linear regression.
     * Important libraries used: `Pandas`, `NumPy`, `SciPy`, `Statsmodels`, `Matplotlib`
-<br/>
 
+5. [Pokémon_classification](https://github.com/papir805/pokemon_classification) - To practice classification algorithms and hyperparameter tuning, I attempted to build several models that predict a binary response, whether a newly observed Pokémon would be legendary or not.
+    * Important libraries used: `Pandas`, `Sklearn`, `Matplotlib`, `Seaborn`
+<br/>
 
 ### SQL Queries - ways to practice my knowledge of joins, window functions, subqueries, common table expressions and more
 1. [advanced_sql_puzzles](https://github.com/papir805/advanced_sql_puzzles)
