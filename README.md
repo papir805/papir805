@@ -31,7 +31,7 @@ Currently, I'm looking for my first job as a Data Analyst/Scientist and in order
 2. [accounting_analysis](https://github.com/papir805/accounting_analysis) - An analysis of data from a Reddit survey on r/accounting that provided insight into the profession my wife was transitioning into.
     * Important libraries used: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Sklearn`, `SciPy`, `Statsmodels`
 
-3. [TV advertising campaign report](https://github.com/papir805/ad_campaign_report) - This script cleans TV ad data, performs joins, and calculates important metrics, then generates and exports three reports as PDF files, which can be used to produce recommendations for TV networks where ad spending should be increased/decreased.
+3. [TV_advertising_campaign_report](https://github.com/papir805/ad_campaign_report) - This script cleans TV ad data, performs joins, and calculates important metrics, then generates and exports three reports as PDF files, which can be used to produce recommendations for TV networks where ad spending should be increased/decreased.
     * Important libraries used: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
 
 4. [acpuncture_scholarly_anaysis](https://github.com/papir805/acupuncture_scholarly_analysis) - A fun way to practice using Python libraries to implement statistical techniques that I teach in class, such as hypothesis testing, construction of confidence intervals, and linear regression.
