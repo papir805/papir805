@@ -18,7 +18,7 @@ Roughly three years ago, I was introduced to the idea of data science and immedi
 
 Now, I have a more varied skill set that is not just conceptual in nature, but is grounded in hands-on experience, spanning a wide array of software and data management systems. I am proficient with SQL (MySQL and PostgreSQL), Tableau, Python, and Excel, and continue to learn more each day, with a robust eagerness that hasn’t waned. 
 
-I also hold a Bachelor of Science (B.S.) degree in International Business from San Jose State University. I’ve leveraged the knowledge gained from my degree to view data from the business perspective and understand ways in which it can provide crucial insights to solve business problems.
+I also hold a Bachelor of Science (B.S.) degree in International Business from San Jose State University. I’ve leveraged the knowledge gained from my degree to view data from the business perspective and understand ways in which it can provide crucial insights to solve business problems.  It's also helped me successfully run my own tutoring business with many satisfied, repeat customers.
 
 Currently, I'm looking for my first job as a Data Analyst/Scientist and in order to demonstrate proficiency, have spent time building up repositories on GitHub to showcase my skills, share projects, and track my progress on data analytics / data science related topics. Please take a look through the repositories here, I hope you find them interesting.
 
