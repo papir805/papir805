@@ -38,7 +38,7 @@ Currently, I'm looking for my first job as a Data Analyst/Scientist and in order
     * Important libraries used: `Pandas`, `NumPy`, `SciPy`, `Statsmodels`, `Matplotlib`
 
 5. [Pokémon_classification](https://github.com/papir805/pokemon_classification) - To practice classification algorithms and hyperparameter tuning, I attempted to build several models that predict a binary response, whether a newly observed Pokémon would be legendary or not.
-    * Important libraries used: `Pandas`, `Sklearn`, `Matplotlib`, `Seaborn`
+    * Important libraries used: `Pandas`, `Sklearn`, `Statsmodels`, `Matplotlib`, `Seaborn`
 <br/>
 
 ### SQL Queries - ways to practice my knowledge of joins, window functions, subqueries, common table expressions and more
