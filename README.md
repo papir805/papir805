@@ -41,6 +41,9 @@ Currently, I'm looking for my first job as a Data Analyst/Scientist and in order
     * Important libraries used: `Pandas`, `Sklearn`, `Statsmodels`, `Matplotlib`, `Seaborn`
 <br/>
 
+6. [ISLR2e_Python](https://github.com/papir805/ISLR2) - The textbook <i>Introduction to Statistical Learning </i>(ISLR) released a second edition in August 2021, with three new chapters that were not present in the first edition.  This project takes R code from the labs in these three chapters and ports it to Python and answers each chapters' exercises in Python too.
+    * Important libraries used: `Pandas`, `NumPy`, `Sklearn`, `Statsmodels`, `Matplotlib`, `Tensorflow`/`Keras`, `Patsy`, `glmnet_python`
+
 ### SQL Queries - ways to practice my knowledge of joins, window functions, subqueries, common table expressions and more
 1. [advanced_sql_puzzles](https://github.com/papir805/advanced_sql_puzzles)
     * All queries in MySQL
@@ -51,12 +54,12 @@ Currently, I'm looking for my first job as a Data Analyst/Scientist and in order
 # Tableau:
 1. [US_accounting_viz](https://public.tableau.com/app/profile/jonathan.papir/viz/us_accounting_viz/GenderStory) - A story about gender differences among male and female accountants using cleaned data from the r/accounting survey in the [accounting_analysis](https://github.com/papir805/accounting_analysis) mentioned above.
 <br/>
+2. [National Tutoring Prices Dashboard](https://public.tableau.com/app/profile/jonathan.papir/viz/shared/4QQYYS4Z6) - An interactive dashboard, which can be used to understand tutoring prices at the national, regional, state, and local level, using data scraped from Craigslist in my [craigslist_web_scraper](https://github.com/papir805/craigslist_web_scraper).
 
 
 # PowerPoint Presentations:
 1. [TV advertising campaign report](https://docs.google.com/presentation/d/1T-fGZ3Cf7lJvf4lJWJhyOq45gDOGqSKuG6wpV-fVQLo/edit?usp=sharing) - Presentation on two months worth of TV ad data and recommendations for which TV networks to increase/decrease ad spending on.
 <br/>
-
 
   
   
