@@ -12,15 +12,19 @@
 
 
 ### Glad to see you here!  
-Hi, my name is Jonathan. I have more than fifteen years of experience working with mathematics, over five of which has been spent as a math teacher who specializes in statistics and calculus. I thoroughly enjoy problem solving and derive satisfaction from being able to work a problem through to completion. Coming from a teaching background, I have a knack for communicating complex ideas in a way that is easy to digest and I enjoy learning, especially if it relates to math in some way.
+Hi, my name is Jonathan. 
 
-Roughly three years ago, I was introduced to the idea of data science and immediately became interested. Mathematical applications excite me and seeing data science blend statistics, calculus, and linear algebra together to solve novel and intriguing problems was eye opening. I was off on my journey and began dedicating all of my free time to learning the requisite skills which would enable me to work with data.
+After college, my first job was as a reporting analyst, where the majority of my work was performed using Excel.  My responsibilities included creating and distributing daily, weekly, and monthly reports to stakeholders, and I performed ad hoc requests as needed.  However, eventually, my love for mathematics led me to transition into a teaching position at the secondary school level.
 
-Now, I have a more varied skill set that is not just conceptual in nature, but is grounded in hands-on experience, spanning a wide array of software and data management systems. I am proficient with SQL (MySQL and PostgreSQL), Tableau, Python, and Excel, and continue to learn more each day, with a robust eagerness that hasn’t waned. 
+I have more than sixteen years of experience working with mathematics, over six of which have been spent as a math teacher who specializes in statistics and calculus. I thoroughly enjoy problem solving and derive satisfaction from being able to work a problem through to completion. Coming from a teaching background, I have a knack for communicating complex ideas in a way that is easy to digest, and I enjoy learning, especially if it relates to math in some way.
 
-I also hold a Bachelor of Science (B.S.) in International Business from San Jose State University and can view data from the business perspective. This enables me to understand ways in which data can provide crucial insights to solve business problems. It's helped me successfully run my own tutoring business for over 15 years, with many satisfied, repeat customers.
+Roughly three years ago, I was introduced to the idea of data science and immediately became interested. Mathematical applications excite me, and seeing data science blend statistics, calculus, and linear algebra together to solve novel and intriguing problems was eye-opening. I was off on my journey and began dedicating all of my free time to learning the requisite skills that would enable me to work with data.
 
-Currently, I'm looking for my first job as a Data Analyst/Scientist and in order to demonstrate proficiency, have spent time building up repositories on GitHub to showcase my skills, share projects, and track my progress on data analytics / data science related topics. Please take a look through the repositories here, I hope you find them interesting.
+Now, I have a more varied skill set that is not just conceptual in nature, but grounded in hands-on experience, spanning a wide array of software and data management systems. I am proficient with SQL (MySQL and PostgreSQL), Tableau, Python, and Excel and continue to learn more each day with a robust eagerness that hasn’t waned. 
+
+I also hold a Bachelor of Science (B.S.) in International Business from San Jose State University and can view data from a business perspective. This enables me to understand ways in which data can provide crucial insights to solve business problems. It's helped me successfully run my own tutoring business for over 15 years, with many satisfied repeat customers.
+
+Currently, I'm looking to transition back into the field of data analytics and data science.  In order to demonstrate proficiency, I've spent time building up repositories on GitHub to showcase my skills, share projects, and track my progress on data analytics and data science-related topics. Please take a look through the repositories here; I hope you find them interesting.
 
 
 # Repositories:
@@ -28,23 +32,24 @@ Currently, I'm looking for my first job as a Data Analyst/Scientist and in order
 ### Python projects
 1. [craigslist_web_scraper](https://github.com/papir805/craigslist_web_scraper) - An ETL web scraper that grabs prices of other math tutors, which I can use to compare my tutoring services against and better understand my competition in the market.
     * Important libraries used: `Requests`, `BeautifulSoup`, `Pandas`, `NumPy`, `Psycopg2`, `Sklearn`
-2. [accounting_analysis](https://github.com/papir805/accounting_analysis) - An analysis of data from a Reddit survey on r/accounting that provided insight into the profession my wife was transitioning into.
+
+2. [accounting_analysis](https://github.com/papir805/accounting_analysis) - An analysis of data from a Reddit survey on r/accounting that provided insight into the profession my wife was transitioning into, enabling her to tailor her job search accordingly.
     * Important libraries used: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Sklearn`, `SciPy`, `Statsmodels`
 
 3. [TV_advertising_campaign_report](https://github.com/papir805/ad_campaign_report) - This script cleans TV ad data, performs joins, and calculates important metrics, then generates and exports three reports as PDF files, which can be used to produce recommendations for TV networks where ad spending should be increased/decreased.
     * Important libraries used: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
 
-4. [acpuncture_scholarly_anaysis](https://github.com/papir805/acupuncture_scholarly_analysis) - A fun way to practice using Python libraries to implement statistical techniques that I teach in class, such as hypothesis testing, construction of confidence intervals, and linear regression.
+4. [acpuncture_scholarly_anaysis](https://github.com/papir805/acupuncture_scholarly_analysis) - A fun way to practice using Python libraries to implement statistical techniques that I teach in class, such as hypothesis testing, construction of confidence intervals, and linear regression, to understand acupuncture treatments and their effects on hypertension.
     * Important libraries used: `Pandas`, `NumPy`, `SciPy`, `Statsmodels`, `Matplotlib`
 
-5. [Pokémon_classification](https://github.com/papir805/pokemon_classification) - To practice classification algorithms and hyperparameter tuning, I attempted to build several models that predict a binary response, whether a newly observed Pokémon would be legendary or not.
+5. [Pokémon_classification](https://github.com/papir805/pokemon_classification) - A K-Nearest Neighbor and Logistic Classifier that predict a binary response, whether a newly observed Pokémon would be legendary or not, with 92-94% testing accuracy.
     * Important libraries used: `Pandas`, `Sklearn`, `Statsmodels`, `Matplotlib`, `Seaborn`
 
 6. [ISLR2e_Python](https://github.com/papir805/ISLR2) - The textbook <i>[Introduction to Statistical Learning](https://www.statlearning.com) </i>(ISLR) released a second edition in August 2021, with three new chapters that were not present in the first edition.  This project takes R code from the labs in these three chapters and ports it to Python and answers each chapters' exercises in Python too.
     * Important libraries used: `Pandas`, `NumPy`, `Sklearn`, `Statsmodels`, `Matplotlib`, `Tensorflow`/`Keras`, `Patsy`, `glmnet_python`
 <br/>
 
-### SQL Queries - ways to practice my knowledge of joins, window functions, subqueries, common table expressions and more
+### SQL Queries - ways to practice solving common business problems using joins, window functions, subqueries, common table expressions and more.
 1. [advanced_sql_puzzles](https://github.com/papir805/advanced_sql_puzzles)
     * All queries in MySQL
 2. [stratascratch_sql_puzzles](https://github.com/papir805/stratascratch_SQL_puzzles)
@@ -70,14 +75,13 @@ Currently, I'm looking for my first job as a Data Analyst/Scientist and in order
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [ETL Craigslist Web Scraper](https://github.com/papir805/craigslist_web_scraper)  
+- 🔭 I’m currently working on a question answering service for video game walkthroughs that utilizes the Langchain library in Python and large language models (LLMs).  
 - 🧠 I'm currently learning Data Engineering through [#de-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp).
     - Skills: 
         - docker 🐳
-        - Google Cloud Platform(GCP) ☁️ 
+        - Google Cloud Platform (GCP) ☁️ 
         - Google BigQuery
-        - PostgreSQL
-- 🌱 I’m currently learning how to tailor an ETL pipeline in such a way as to provide the data I need on my competition as a math tutor.  I want to understand the market better.   
+        - PostgreSQL   
   
 
 - ❓ Ask me about anything related to math!  I'm comfortable with anything from basic Algebra, all the way to Calculus and Statistics.  
