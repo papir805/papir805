@@ -24,7 +24,7 @@ Now, I have a more varied skill set that is not just conceptual in nature, but g
 
 I also hold a Bachelor of Science (B.S.) in International Business from San Jose State University and can view data from a business perspective. This enables me to understand ways in which data can provide crucial insights to solve business problems. It's helped me successfully run my own tutoring business for over 15 years, with many satisfied repeat customers.
 
-Currently, I'm looking to transition back into the field of data analytics and data science.  In order to demonstrate proficiency, I've spent time building up repositories on GitHub to showcase my skills, share projects, and track my progress on data analytics and data science-related topics. Please take a look through the repositories here; I hope you find them interesting.
+Currently, I'm looking to transition back into the field of data analytics with a long term goal to become a data scientist.  In order to demonstrate proficiency, I've spent time building up repositories on GitHub to showcase my new skills, share projects, and track my progress on data analytics and data science-related topics. Please take a look through the repositories here; I hope you find them interesting.
 
 
 # Repositories:
