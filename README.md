@@ -16,7 +16,7 @@ Hi, my name is Jonathan.
 
 After college, my first job was as a reporting analyst, where the majority of my work was performed using Excel.  My responsibilities included creating and distributing daily, weekly, and monthly reports to stakeholders, and I performed ad hoc requests as needed.  However, eventually, my love for mathematics led me to transition into a teaching position at the secondary school level.
 
-I have more than sixteen years of experience working with mathematics, over six of which have been spent as a math teacher who specializes in statistics and calculus. I thoroughly enjoy problem solving and derive satisfaction from being able to work a problem through to completion. Coming from a teaching background, I have a knack for communicating complex ideas in a way that is easy to digest, and I enjoy learning, especially if it relates to math in some way.
+Overall, I have more than sixteen years of experience working with mathematics, six of which have been spent as a math teacher who specializes in statistics and calculus. I thoroughly enjoy problem solving and derive satisfaction from being able to work a problem through to completion. Coming from a teaching background, I have a knack for communicating complex ideas in a way that is easy to digest, and I enjoy learning, especially if it relates to math in some way.
 
 Roughly three years ago, I was introduced to the idea of data science and immediately became interested. Mathematical applications excite me, and seeing data science blend statistics, calculus, and linear algebra together to solve novel and intriguing problems was eye-opening. I was off on my journey and began dedicating all of my free time to learning the requisite skills that would enable me to work with data.
 
