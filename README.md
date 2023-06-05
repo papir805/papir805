@@ -30,19 +30,19 @@ Currently, I'm looking to transition back into the field of data analytics with 
 # Repositories:
 
 ### Python projects
-1. [craigslist_web_scraper](https://github.com/papir805/craigslist_web_scraper) - An ETL web scraper that grabs prices of other math tutors, which I can use to compare my tutoring services against and better understand my competition in the market.
+1. [craigslist_web_scraper](https://github.com/papir805/craigslist_web_scraper) - An ETL web scraper that grabs prices of other math tutors, which I used to compare my tutoring services against and better understand my competition in the market.
     * Important libraries used: `Requests`, `BeautifulSoup`, `Pandas`, `NumPy`, `Psycopg2`, `Sklearn`
 
 2. [accounting_analysis](https://github.com/papir805/accounting_analysis) - An analysis of data from a Reddit survey on r/accounting that provided insight into the profession my wife was transitioning into, enabling her to tailor her job search accordingly.
     * Important libraries used: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Sklearn`, `SciPy`, `Statsmodels`
 
-3. [TV_advertising_campaign_report](https://github.com/papir805/ad_campaign_report) - This script cleans TV ad data, performs joins, and calculates important metrics, then generates and exports three reports as PDF files, which can be used to produce recommendations for TV networks where ad spending should be increased/decreased.
+3. [TV_advertising_campaign_report](https://github.com/papir805/ad_campaign_report) - This script cleans TV ad data, performs joins, and calculates important metrics, then generates and exports three reports as PDF files.  These reports were used to produce recommendations for TV networks where ad spending should be increased/decreased.
     * Important libraries used: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
 
-4. [acpuncture_scholarly_anaysis](https://github.com/papir805/acupuncture_scholarly_analysis) - A fun way to practice using Python libraries to implement statistical techniques that I teach in class, such as hypothesis testing, construction of confidence intervals, and linear regression, to understand acupuncture treatments and their effects on hypertension.
+4. [acpuncture_scholarly_anaysis](https://github.com/papir805/acupuncture_scholarly_analysis) - A fun way to practice using Python libraries to implement statistical techniques that I teach in class, such as hypothesis testing, construction of confidence intervals, and linear regression.  The goal was to understand acupuncture treatments and their effects on hypertension.
     * Important libraries used: `Pandas`, `NumPy`, `SciPy`, `Statsmodels`, `Matplotlib`
 
-5. [Pokémon_classification](https://github.com/papir805/pokemon_classification) - A K-Nearest Neighbor and Logistic Classifier that predict a binary response, whether a newly observed Pokémon would be legendary or not, with 92-94% testing accuracy.
+5. [Pokémon_classification](https://github.com/papir805/pokemon_classification) - A k-Nearest Neighbor and Logistic Classifier that predict a binary response, whether a newly observed Pokémon would be legendary or not.  Both models achieved 92-94% testing accuracy.
     * Important libraries used: `Pandas`, `Sklearn`, `Statsmodels`, `Matplotlib`, `Seaborn`
 
 6. [ISLR2e_Python](https://github.com/papir805/ISLR2) - The textbook <i>[Introduction to Statistical Learning](https://www.statlearning.com) </i>(ISLR) released a second edition in August 2021, with three new chapters that were not present in the first edition.  This project takes R code from the labs in these three chapters and ports it to Python and answers each chapters' exercises in Python too.
@@ -63,7 +63,7 @@ Currently, I'm looking to transition back into the field of data analytics with 
 <br/>
 
 # PowerPoint Presentations:
-1. [TV advertising campaign report](https://docs.google.com/presentation/d/1T-fGZ3Cf7lJvf4lJWJhyOq45gDOGqSKuG6wpV-fVQLo/edit?usp=sharing) - Presentation on two months worth of TV ad data and recommendations for which TV networks to increase/decrease ad spending on.
+1. [TV advertising campaign report](https://docs.google.com/presentation/d/1T-fGZ3Cf7lJvf4lJWJhyOq45gDOGqSKuG6wpV-fVQLo/edit?usp=sharing) - Presentation using two months worth of TV ad data that provides recommendations for which TV networks to increase/decrease ad spending on.
 <br/>
 
   
