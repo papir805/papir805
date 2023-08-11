@@ -49,11 +49,12 @@ Currently, I'm looking to transition back into the field of data analytics with 
     * Important libraries used: `Pandas`, `NumPy`, `Sklearn`, `Statsmodels`, `Matplotlib`, `Tensorflow`/`Keras`, `Patsy`, `glmnet_python`
 <br/>
 
-### SQL Queries - ways to practice solving common business problems using joins, window functions, subqueries, common table expressions and more.
-1. [advanced_sql_puzzles](https://github.com/papir805/advanced_sql_puzzles)
-    * All queries in MySQL
-2. [stratascratch_sql_puzzles](https://github.com/papir805/stratascratch_SQL_puzzles)
-    * All queries in PostgreSQL
+### SQL projects
+1. [Case Study: Mobile App Gaming Data](https://github.com/papir805/mobile_app_data_analysis)
+This case study was given to me to determine whether there's any correlation between user attributes and user performance based on data from a mobile gaming company. The project is broken into three parts:
+    * Loading and cleaning the data into a PostgreSQL database
+    * Performing an exploratory data analysis
+    * Using hypothesis testing and regression modeling to answer the question about correlation
 <br/>
 
 # Tableau:
