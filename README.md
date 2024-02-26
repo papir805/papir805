@@ -12,7 +12,16 @@
 
 
 ### Glad to see you here!  
+<<<<<<< HEAD
 Hi, my name is Jonathan. 
+=======
+Hi, my name is Jonathan. I have more than fifteen years of experience in mathematics, with five years as a reporting analyst. I thoroughly enjoy problem-solving and derive satisfaction from successfully tackling a complex problem. Having spent some time as a teacher and tutor, I also have a knack for communicating complex ideas in a way that is easy to digest, and I enjoy learning, especially if it relates to math in some way.
+
+Several years ago, I was introduced to data science and immediately became interested. I had never seen such novel and intriguing solutions to problems before, and witnessing data science blend statistics, calculus, and linear algebra was eye-opening. To work with large amounts of data, I began beefing up my technical skills through self-learning in my spare time.
+
+Now, I'm proficient in SQL, Python, Tableau, and Excel, and I'm looking for a job as a data analyst. I've spent time creating personal projects to showcase my skills and track my progress on data analytics/data science-related topics.
+<!-- Hi, my name is Jonathan. I have more than fifteen years of experience working with mathematics, over five of which has been spent as a math teacher who specializes in statistics and calculus. I thoroughly enjoy problem solving and derive satisfaction from being able to work a problem through to completion. Coming from a teaching background, I have a knack for communicating complex ideas in a way that is easy to digest and I enjoy learning, especially if it relates to math in some way.
+>>>>>>> updated readme
 
 After college, my first job was as a reporting analyst, where the majority of my work was performed using Excel.  My responsibilities included creating and distributing daily, weekly, and monthly reports to stakeholders, and I performed ad hoc requests as needed.  However, eventually, my love for mathematics led me to transition into a teaching position at the secondary school level.
 
@@ -20,6 +29,7 @@ Overall, I have more than sixteen years of experience working with mathematics, 
 
 Roughly three years ago, I was introduced to the idea of data science and immediately became interested. Mathematical applications excite me, and seeing data science blend statistics, calculus, and linear algebra together to solve novel and intriguing problems was eye-opening. I was off on my journey and began dedicating all of my free time to learning the requisite skills that would enable me to work with data.
 
+<<<<<<< HEAD
 Now, I have a more varied skill set that is not just conceptual in nature, but grounded in hands-on experience, spanning a wide array of software and data management systems. I am proficient with SQL (MySQL and PostgreSQL), Tableau, Python, and Excel and continue to learn more each day with a robust eagerness that hasn’t waned. 
 
 I also hold a Bachelor of Science (B.S.) in International Business from San Jose State University and can view data from a business perspective. This enables me to understand ways in which data can provide crucial insights to solve business problems. It's helped me successfully run my own tutoring business for over 15 years, with many satisfied repeat customers.
@@ -31,6 +41,22 @@ Currently, I'm looking to transition back into the field of data analytics with 
 
 ### Python projects
 1. [craigslist_web_scraper](https://github.com/papir805/craigslist_web_scraper) - An ETL web scraper that grabs prices of other math tutors, which I used to compare my tutoring services against and better understand my competition in the market.
+=======
+Currently, I'm looking for my first job as a Data Analyst/Scientist and in order to demonstrate proficiency, have spent time building up repositories on GitHub to showcase my skills, share projects, and track my progress on data analytics / data science related topics. Please take a look through the repositories here, I hope you find them interesting. -->
+
+
+# Repositories:
+### Featured Projects
+1. [electroniCart Sales Analysis](https://github.com/papir805/ElectroniCart-Sales-Analysis): An analysis of transaction records for an electronics retailer examining trends in sales, refunds, and the loyalty program providing recommendations to the sales, inventory, and loyalty teams.
+    * Tools used: PostgreSQL, Excel
+2. [Bot Battles Player Analysis](https://github.com/papir805/bot_battles_player_analysis): Conducted regional and seasonal analysis of in-game activity and player demographics for use by the marketing team to optimize budgets, time ad campaigns, and target specific segments.
+    * Tools used: Python, PostgreSQL
+3. [TelePulse Ad Campaign Report](https://github.com/papir805/telepulse_ad_campaign_report): Conducted and summarized analysis of ad data for the VP of marketing that recommends channels for increased and decreased ad spend.
+    * Tools used: Python
+
+<!-- ### Python projects
+1. [craigslist_web_scraper](https://github.com/papir805/craigslist_web_scraper) - An ETL web scraper that grabs prices of other math tutors, which I can use to compare my tutoring services against and better understand my competition in the market.
+>>>>>>> updated readme
     * Important libraries used: `Requests`, `BeautifulSoup`, `Pandas`, `NumPy`, `Psycopg2`, `Sklearn`
 
 2. [accounting_analysis](https://github.com/papir805/accounting_analysis) - An analysis of data from a Reddit survey on r/accounting that provided insight into the profession my wife was transitioning into, enabling her to tailor her job search accordingly.
@@ -68,12 +94,12 @@ This case study was given to me to determine whether there's any correlation bet
 <br/>
 
   
-  
+   -->
 
 <br/>  
 
 
-## Rapidfire  
+<!-- ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on a question answering service for video game walkthroughs that utilizes the Langchain library in Python and large language models (LLMs).  
@@ -100,7 +126,7 @@ This case study was given to me to determine whether there's any correlation bet
 
 </td></tr></table>  
 
-<br/>  
+<br/>   -->
 
 
 ## Languages and Tools  
