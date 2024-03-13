@@ -24,7 +24,7 @@ Now, I'm proficient in SQL, Python, Tableau, and Excel, and I'm looking for a jo
 # Repositories:
 ### Featured Projects
 1. [electroniCart Sales Analysis](https://github.com/papir805/ElectroniCart-Sales-Analysis): An analysis of transaction records for an electronics retailer examining trends in sales, refunds, and the loyalty program providing recommendations to the sales, inventory, and loyalty teams.
-    * Tools used: PostgreSQL, Excel
+    * Tools used: PostgreSQL, Excel, Tableau
 2. [Bot Battles Player Analysis](https://github.com/papir805/bot_battles_player_analysis): Conducted regional and seasonal analysis of in-game activity and player demographics for use by the marketing team to optimize budgets, time ad campaigns, and target specific segments.
     * Tools used: Python, PostgreSQL
 3. [TelePulse Ad Campaign Report](https://github.com/papir805/telepulse_ad_campaign_report): Conducted and summarized analysis of ad data for the VP of marketing that recommends channels for increased and decreased ad spend.
