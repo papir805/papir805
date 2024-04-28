@@ -14,20 +14,21 @@
 ### Glad to see you here!  
 Hi, my name is Jonathan. 
 
-I have more than fifteen years of experience in mathematics, with five years as a reporting analyst. I thoroughly enjoy problem-solving and derive satisfaction from successfully tackling a complex problem. Having spent some time as a teacher and tutor, I also have a knack for communicating complex ideas in a way that is easy to digest, and I enjoy learning, especially if it relates to math in some way.
+I have more than fifteen years of experience in mathematics and analysis, with five years as a reporting analyst. I thoroughly enjoy problem-solving and derive satisfaction from successfully tackling a complex problem. Having spent some time as a teacher and tutor, I also have a knack for communicating complex ideas in a way that is easy to digest, and I enjoy learning new tools and methodologies, especially if it relates to math and analysis in some way.
 
-Several years ago, I was introduced to data science and immediately became interested. I had never seen such novel and intriguing solutions to problems before, and witnessing data science blend statistics, calculus, and linear algebra was eye-opening. To work with large amounts of data, I began beefing up my technical skills through self-learning in my spare time.
-
-Now, I'm proficient in SQL, Python, Tableau, and Excel, and I'm looking for a job as a data analyst. I've spent time creating personal projects to showcase my skills and track my progress on data analytics/data science-related topics.
+I'm proficient in SQL, Python, Tableau, and Excel, and I'm looking for a job as a data analyst. Here are several projects that showcase my skills.
 
 
 # Repositories:
 ### Featured Projects
-1. [electroniCart Sales Analysis](https://github.com/papir805/ElectroniCart-Sales-Analysis): An analysis of transaction records for an electronics retailer examining trends in sales, refunds, and the loyalty program providing recommendations to the sales, inventory, and loyalty teams.
-    * Tools used: PostgreSQL, Excel, Tableau
-2. [Bot Battles Player Analysis](https://github.com/papir805/bot_battles_player_analysis): Conducted regional and seasonal analysis of in-game activity and player demographics for use by the marketing team to optimize budgets, time ad campaigns, and target specific segments.
+1. [electroniCart Sales Analysis](https://github.com/papir805/ElectroniCart-Sales-Analysis): An analysis of transaction records for an electronics retailer examining trends in sales, refunds, and the loyalty program providing recommendations to sales and operations stakeholders.
+    * Tools used: Google BigQuery, Excel, Tableau
+2. [Quality Health Marketing Campaign Report](https://github.com/papir805/quality_health_analysis): Assisted the marketing team in evaluating the performance of twelve marketing campaigns and their impact on signups and subsequent patient claims.  Offered budget allocation advice for future campaigns based on marketing, signup, and claim metrics, including click-through rate, cost per click, cost per signup, and average claim amount.
+
+    * Tools used: Google BigQuery, Tableau
+3. [Bot Battles Player Analysis](https://github.com/papir805/bot_battles_player_analysis): Conducted regional and seasonal analysis of in-game activity and player demographics for the marketing team to optimize budgets, time ad campaigns, and target specific segments.
     * Tools used: Python, PostgreSQL
-3. [TelePulse Ad Campaign Report](https://github.com/papir805/telepulse_ad_campaign_report): Conducted and summarized analysis of ad data for the VP of marketing that recommends channels for increased and decreased ad spend.
+4. [TelePulse Ad Campaign Report](https://github.com/papir805/telepulse_ad_campaign_report): Conducted and summarized analysis of $200k in spending on ad data for marketing stakeholders. Recommended channels for increased and decreased future ad spend.
     * Tools used: Python
 
 <!-- ### Python projects
