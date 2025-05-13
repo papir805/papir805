@@ -16,7 +16,7 @@ Hi, my name is Jonathan.
 
 I have more than fifteen years of experience in mathematics and analysis, with five years as a reporting analyst. I thoroughly enjoy problem-solving and derive satisfaction from successfully tackling a complex problem. Having spent some time as a teacher and tutor, I also have a knack for communicating complex ideas in a way that is easy to digest, and I enjoy learning new tools and methodologies, especially if it relates to math and analysis in some way.
 
-Here are several projects that showcase my skills in SQL, Python, Tableau, and Excel.
+Below are several projects that showcase my skills in SQL, Python, Tableau, and Excel.
 
 
 # Repositories:
